@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Peny Vinni
 
-<!--
-**penyvinni/penyvinni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer** passionate about **Extended Reality (XR)** and **Biomedical Applications**. I specialize in building innovative solutions at the crossroads of technology and healthcare. Currently, I'm an **MSc Candidate in Informatics and Telecommunications** at the **University of Ioannina**.
 
-Here are some ideas to get you started:
+### 🔭 **What I Do:**
+- **XR Development**: AR, VR, and MR apps for healthcare
+- **Biomedical Software**: Projects leveraging EEG technology
+- **3D Applications**: Unity-driven, dynamic experiences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 **Skills:**
+- **Languages**: C, C++, C#, Python, PHP, Java, JavaScript, HTML/CSS, SQL
+- **Tools**: Unity, Visual Studio Code, MySQL, XAMPP
+- **Areas**: Web Development, Database Design, Software Engineering
+
+### 🌱 **Currently Working On:**
+- Postgraduate research in XR for biomedical applications
+- Exploring new ways to integrate tech with healthcare
+
+### 📫 **Let's Connect:**
+- **Email**: penyvinni@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/panagiotavinni/)
+
+---
+
+Thanks for stopping by! Let's collaborate to create impactful, tech-driven projects! 🚀
