@@ -21,5 +21,3 @@ I'm a **Full Stack Developer** passionate about **Extended Reality (XR)** and **
 - [LinkedIn](https://www.linkedin.com/in/panagiotavinni/)
 
 ---
-
-Thanks for stopping by! Let's collaborate to create impactful, tech-driven projects! 🚀
