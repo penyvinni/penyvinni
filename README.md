@@ -8,12 +8,12 @@ I'm a **Full Stack Developer** passionate about **Extended Reality (XR)** and **
 - **3D Applications**: Unity-driven, dynamic experiences
 
 ### 🛠 **Skills:**
-- **Languages**: C, C++, C#, Python, PHP, Java, JavaScript, HTML/CSS, SQL
+- **Languages**: C, C++, C#, Python, Matlab, JavaScript, HTML/CSS, SQL
 - **Tools**: Unity, Visual Studio Code, MySQL, XAMPP
 - **Areas**: Web Development, Database Design, Software Engineering
 
 ### 🌱 **Currently Working On:**
-- Postgraduate research in XR for biomedical applications
+- Postgraduate research in Biomedical Applications
 - Exploring new ways to integrate tech with healthcare
 
 ### 📫 **Let's Connect:**
