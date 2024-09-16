@@ -17,7 +17,7 @@ I'm a **Full Stack Developer** passionate about **Extended Reality (XR)** and **
 - Exploring new ways to integrate tech with healthcare
 
 ### 📫 **Let's Connect:**
-- **Email**: penyvinni@gmail.com
+- penyvinni@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/panagiotavinni/)
 
 ---
