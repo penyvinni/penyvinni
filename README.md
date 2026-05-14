@@ -1,20 +1,26 @@
 # Hi there! 👋 I'm Peny Vinni
 
-I'm a **Full Stack Developer** passionate about **Extended Reality (XR)** and **Biomedical Applications**. I specialize in building innovative solutions at the crossroads of technology and healthcare. Currently, I'm an **MSc Candidate in Informatics and Telecommunications** at the **University of Ioannina**.
+I'm a **Full Stack Developer** with a background in **Informatics and Telecommunications** and a strong passion for building technology-driven solutions.  
+
+My interests range from **Biomedical Applications** and **Medical Imaging** to **Aviation-related projects**, combining software development with innovation, problem-solving, and real-world applications.  
+
+Currently, I work as an **External Collaborator at the University of Ioannina**, while continuously exploring new technologies and developing personal and research-oriented projects.
 
 ### 🔭 **What I Do:**
-- **XR Development**: AR, VR, and MR apps for healthcare
-- **Biomedical Software**: Projects leveraging EEG technology
-- **3D Applications**: Unity-driven, dynamic experiences
+- **Full Stack Development**: Frontend & Backend web applications
+- **Biomedical Applications**: Medical imaging and healthcare-oriented projects
+- **Aviation Projects**: Software ideas and applications related to aviation and aerospace technology
+- **XR Development**: AR, VR, and interactive experiences using Unity
 
 ### 🛠 **Skills:**
-- **Languages**: C, C++, C#, Python, Matlab, JavaScript, HTML/CSS, SQL
-- **Tools**: Unity, Visual Studio Code, MySQL, XAMPP
-- **Areas**: Web Development, Database Design, Software Engineering
+- **Languages**: C, C++, C#, Python, MATLAB, JavaScript, HTML/CSS, SQL
+- **Tools**: Unity, OpenCV, SimpleITK, ITK-SNAP, MySQL, Git, Visual Studio Code, XAMPP
+- **Areas**: Web Development, Computer Vision, Database Design, Software Engineering
 
 ### 🌱 **Currently Working On:**
-- Postgraduate research in Biomedical Applications
-- Exploring new ways to integrate tech with healthcare
+- Healthcare and technology-oriented projects
+- Aviation-related software ideas
+- Expanding my knowledge in biomedical imaging and AI applications
 
 ### 📫 **Let's Connect:**
 - penyvinni@gmail.com
